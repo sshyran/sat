@@ -8,7 +8,7 @@ require (
 	github.com/sethvargo/go-envconfig v0.7.0
 	github.com/stretchr/testify v1.7.5
 	github.com/suborbital/atmo v0.4.7
-	github.com/suborbital/grav v0.5.1
+	github.com/suborbital/grav v0.5.2
 	github.com/suborbital/reactr v0.15.1
 	github.com/suborbital/vektor v0.6.0
 	github.com/testcontainers/testcontainers-go v0.13.0
@@ -72,7 +72,7 @@ require (
 	go.opencensus.io v0.23.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.7.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.16.0 // indirect
-	golang.org/x/crypto v0.0.0-20220516162934-403b01795ae8 // indirect
+	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
 	golang.org/x/mod v0.5.1 // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
